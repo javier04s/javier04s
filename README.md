@@ -8,7 +8,7 @@ Actualmente estoy aprendiendo Ingeniería Informática y me estoy especializando
 📫 Puedes contactarme a través de mi correo electrónico javierdelmoral04@gmail.com
 
 ⚡ **Dato curioso** 
-Me encanta resolver problemas de programación y pasar tiempo explorando nuevas tecnologías.
+Me encanta resolver problemas de programación y pasar tiempo explorando nuevas tecnologías
 
 <!---
 javier04s/javier04s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
