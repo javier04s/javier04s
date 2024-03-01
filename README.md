@@ -2,8 +2,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center">Hey, Im Javier04s</a> 👋</h1>
-<div align="center" border-radius="20px">
-	<img src="https://github.com/javier04s/javier04s/blob/main/foto.png" width="25%">
 </div>
 <br>
 
