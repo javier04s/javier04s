@@ -1,4 +1,5 @@
-
+<p align="center">
+<img src="https://github.com/javier04s/javier04s/blob/main/foto.png" width="300" height="300">
 
 <h1 align="center">Hola 👋 soy Javier 😎 </h1> 
 
