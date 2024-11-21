@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**javier04s/javier04s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hola 👋 soy Javier 😎 </h1> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="center">
+<a href = "mailto:javierdelmoral04@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@javier04s"  /></a>
+  <a href = "https://github.com/javier04s" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@javier04s"  /></a>
+  <a href = "https://www.udemy.com/user/javier-andres-36/" target="blank"><img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="@javier04s"  /></a>
+  <a target="blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="@javier04s"  /></a>
+<br>
+<h2 align="center">Sobre mi 😃</h2>
+<p align="left">
+<h3>🎓 Estudiante de Ingenieria Informatica</h3>
+
+Soy un programador en aprendizaje con un interés particular en Python, Java, y el desarrollo web (HTML, CSS, JavaScript). Disfruto aprendiendo y explorando nuevos lenguajes de programación.
+
+📫 Contacto: **javierdelmoral04@gmail.com**
+
+<h2 >Tecnologías conocidas 👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,astro,python,cpp,java,maven,git,gitlab,github,vscode,idea&perline=12" />
+  </a>
+</p>
+<!-------------------------->
+<div id="proyectos">
+<h2 >Algunos proyectos 🔜</h2>
+
+<h2>GitHub Stats 🔨</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javier04s&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="40%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=javier04s&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=javier04s&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
