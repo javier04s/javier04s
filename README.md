@@ -22,7 +22,7 @@ Soy un programador en aprendizaje con un interés particular en Python, Java, y 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,astro,python,cpp,java,maven,git,gitlab,github,vscode,idea&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,astro,python,cpp,java,maven,git,gitlab,github,mysql,vscode,idea&perline=12" />
   </a>
 </p>
 <!-------------------------->
