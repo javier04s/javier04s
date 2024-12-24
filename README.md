@@ -27,7 +27,13 @@ Soy un programador en aprendizaje con un interés particular en Python, Java, y 
 </p>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos 🔜</h2>
+<h2 >Algunos proyectos 🚀</h2>
+	
+<div>
+  <p align="center">
+	<a href="[https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023](https://github.com/javier04s/Student-System)">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 
 <h2>GitHub Stats 🔨</h2>
 <!--- stats & Trophy (start) -->
