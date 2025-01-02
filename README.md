@@ -48,22 +48,31 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  <p align="center">
-  <a href="https://github.com/javier04s/Student-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=nord&hide_border=true&icon_color=e78219"/>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/javier04s/Book-Store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Book-Store&theme=nord&hide_border=true&icon_color=e78219"/>
-  </a>
-</p>
-</td>
-</tr>  
+  <td width="50%" align="center">
+    <p align="center">
+      <a href="https://github.com/javier04s/Student-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=nord&hide_border=true&icon_color=e78219"/>
+      </a>
+    </p>
+  </td>
+  <td width="50%" align="center">
+    <p align="center">
+      <a href="https://github.com/javier04s/Book-Store">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Book-Store&theme=nord&hide_border=true&icon_color=e78219"/>
+      </a>
+    </p>
+  </td>
+</tr>
+<tr border="none">
+  <td width="50%" align="center">
+    <p align="center">
+      <a href="https://github.com/javier04s/Tasks-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Tasks-System&theme=nord&hide_border=true&icon_color=e78219"/>
+      </a>
+    </p>
+  </td>
+</tr>
 </table>
-
-
 
 ## GitHub Stats 🔨
 
