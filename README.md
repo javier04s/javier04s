@@ -46,14 +46,14 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
 
 ## Some Projects 🚀
 
-<p align="center">
+<!--- <p align="center">
 <a href="https://github.com/javier04s/Student-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=tokyonight" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/javier04s/Book-Store">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Book-Store&theme=tokyonight" alt="GitHub Stats" />
 </a>
-</p>
+</p> --->
 
 ## GitHub Stats 🔨
 
