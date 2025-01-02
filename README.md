@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://github.com/javier04s/javier04s/blob/main/foto.png" width="300" height="300">
+<img src="https://github.com/javier04s/javier04s/blob/main/banner.png">
 </p>
 
-<h1 align="center">Hello 👋 I'm Javier 😎</h1>
+<h1 align="center">Hello 👋</h1>
 
 <p align="center">
 <a href="mailto:javierdelmoral04@gmail.com" target="blank">
