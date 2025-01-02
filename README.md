@@ -9,9 +9,6 @@
   <a href = "https://github.com/javier04s" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@javier04s"  /></a>
   <a href = "https://www.udemy.com/user/javier-andres-36/" target="blank"><img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="@javier04s"  /></a>
 <br>
-<br>
-  <p align="center"><img src="https://profile-counter.glitch.me/{javier04s}/count.svg" alt="javier04s :: Visitor's Count" /></p>
-<br>
 
 <h2 align="center">About Me 😃</h2>
 <p align="left">
