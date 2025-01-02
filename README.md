@@ -40,36 +40,46 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
 ## Languages and Tools 👨🏻‍💻
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,astro,python,cpp,java,maven,git,github,mysql,vscode,idea,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,astro,python,cpp,java,spring,mysql,maven,git,github,vscode,idea,bash&perline=12" />
   </a>
 </p>
 
 ## Some Projects 🚀
 
-<!--- <p align="center">
-<a href="https://github.com/javier04s/Student-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=tokyonight" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/javier04s/Book-Store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Book-Store&theme=tokyonight" alt="GitHub Stats" />
-</a>
-</p> --->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <p align="center">
+  <a href="https://github.com/javier04s/Student-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=nord&hide_border=true&icon_color=e78219"/>
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/javier04s/Book-Store">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Book-Store&theme=nord&hide_border=true&icon_color=e78219"/>
+  </a>
+</p>
+</td>
+</tr>  
+</table>
+
+
 
 ## GitHub Stats 🔨
 
 <table align="center">
 <tr border="none">
 <td width="60%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=javier04s&theme=tokyonight&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=javier04s&theme=nord&hide_border=false" />
 </td>
 <td width="40%" align="center">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=javier04s&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=3" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=javier04s&theme=nord&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=compact" />
 </td>
 </tr>
 </table>
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=javier04s&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=javier04s&hide=prs,issues&theme=nord&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"/>
 </a>
 </p>
