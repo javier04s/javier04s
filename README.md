@@ -34,6 +34,9 @@ Soy un programador en aprendizaje con un interés particular en Python, Java, y 
 	<a href="https://github.com/javier04s/Student-System">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+    	<a href="https://github.com/javier04s/Book-Store">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Book-Store&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 
 <h2>GitHub Stats 🔨</h2>
 <!--- stats & Trophy (start) -->
