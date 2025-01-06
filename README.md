@@ -40,7 +40,7 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
 ## Languages and Tools 👨🏻‍💻
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,astro,python,cpp,java,spring,mysql,maven,git,github,vscode,idea,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,java,spring,mysql,maven,git,github,vscode,idea,bash&perline=12" />
   </a>
 </p>
 
@@ -68,6 +68,13 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
     <p align="center">
       <a href="https://github.com/javier04s/Tasks-System">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Tasks-System&theme=nord&hide_border=true&icon_color=e78219"/>
+      </a>
+    </p>
+  </td>
+  <td width="50%" align="center">
+    <p align="center">
+      <a href="https://github.com/javier04s/Bank-Management">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Bank-Management&theme=nord&hide_border=true&icon_color=e78219"/>
       </a>
     </p>
   </td>
