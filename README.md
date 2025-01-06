@@ -51,14 +51,14 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
   <td width="50%" align="center">
     <p align="center">
       <a href="https://github.com/javier04s/Student-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=tokyonight&hide_border=true&icon_color=e78219"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=react&hide_border=true&icon_color=e78219"/>
       </a>
     </p>
   </td>
   <td width="50%" align="center">
     <p align="center">
       <a href="https://github.com/javier04s/Book-Store">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Book-Store&theme=tokyonight&hide_border=true&icon_color=e78219"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Book-Store&theme=react&hide_border=true&icon_color=e78219"/>
       </a>
     </p>
   </td>
@@ -67,14 +67,14 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
   <td width="50%" align="center">
     <p align="center">
       <a href="https://github.com/javier04s/Tasks-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Tasks-System&theme=tokyonight&hide_border=true&icon_color=e78219"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Tasks-System&theme=react&hide_border=true&icon_color=e78219"/>
       </a>
     </p>
   </td>
   <td width="50%" align="center">
     <p align="center">
       <a href="https://github.com/javier04s/Bank-Management">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Bank-Management&theme=tokyonight&hide_border=true&icon_color=e78219"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Bank-Management&theme=react&hide_border=true&icon_color=e78219"/>
       </a>
     </p>
   </td>
@@ -85,17 +85,12 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
 
 <table align="center">
 <tr border="none">
-<td width="60%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=javier04s&theme=tokyonight&hide_border=false" />
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=javier04s&show_icons=true&theme=react" />
 </td>
-<td width="40%" align="center">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=javier04s&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=compact" />
+<td width="50%" align="center">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=javier04s&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=compact" />
 </td>
 </tr>
 </table>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=javier04s&hide=prs,issues&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"/>
-</a>
-</p>
