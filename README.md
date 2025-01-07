@@ -51,14 +51,14 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
   <td width="50%" align="center">
     <p align="center">
       <a href="https://github.com/javier04s/Student-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Student-System&theme=react&hide_border=true&icon_color=e78219"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=InventorySystem-Front&theme=react&hide_border=true&icon_color=e78219"/>
       </a>
     </p>
   </td>
   <td width="50%" align="center">
     <p align="center">
       <a href="https://github.com/javier04s/Book-Store">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Book-Store&theme=react&hide_border=true&icon_color=e78219"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=BookStore&theme=react&hide_border=true&icon_color=e78219"/>
       </a>
     </p>
   </td>
@@ -67,14 +67,14 @@ Feel free to reach out at: **javierdelmoral04@gmail.com**
   <td width="50%" align="center">
     <p align="center">
       <a href="https://github.com/javier04s/Tasks-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Tasks-System&theme=react&hide_border=true&icon_color=e78219"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=TaskSystem&theme=react&hide_border=true&icon_color=e78219"/>
       </a>
     </p>
   </td>
   <td width="50%" align="center">
     <p align="center">
       <a href="https://github.com/javier04s/Bank-Management">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=Bank-Management&theme=react&hide_border=true&icon_color=e78219"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=BankManagement&theme=react&hide_border=true&icon_color=e78219"/>
       </a>
     </p>
   </td>
