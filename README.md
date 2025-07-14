@@ -2,95 +2,36 @@
 <img src="https://github.com/javier04s/javier04s/blob/main/banner.png">
 </p>
 
-<h1 align="center">Hello 👋</h1>
-
 <p align="center">
-<a href="mailto:javierdelmoral04@gmail.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@javier04s" />
-</a>
-<a href="https://github.com/javier04s" target="blank">
-<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@javier04s" />
-</a>
-<a href="https://www.udemy.com/user/javier-andres-36/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="@javier04s" />
-</a>
-</p>
-
-<p align="center">
-<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=javier04s&repo=Bgstatic&countColorcountColor&countColor=%23e78219" />
+  <strong>
+    Hi, I'm a Computer Engineering student passionate about programming, cybersecurity, and AI.<br>
+    Welcome to my GitHub profile!
+  </strong>
 </p>
 
 ## About Me 😃
 
 ### 🎓 Computer Engineering Student
-I'm a programmer-in-training with a particular interest in Python, Java, and web development (HTML, CSS, JavaScript). I enjoy learning and exploring new programming languages.
+I am learning to be a programmer and I focus on Python and Java. I enjoy studying new technologies and using them to solve real-world problems. I like to understand how software works and build programs that are useful, secure, and easy to maintain. I am also interested in cybersecurity and ethical hacking because I want to protect systems and data from attacks. 
 
 ### 🔭 Currently Learning
-- Cybersecurity and Ethical Hacking with Python.
-- Artificial Intelligence and Deep Learning in Python.
+- Cybersecurity and Ethical Hacking.
+- Machine Learning and Deep Learning.
+- Data Science.
+- Spring Boot Framework
 
-### ✨ Career Goals
-As a Computer Engineering student, my goal is to become a versatile Full-Stack Developer, specializing in building scalable web applications. In the short term, I aim to master front-end technologies (HTML, CSS, JavaScript) and back-end frameworks like Node.js and Django. I’m also passionate about Cybersecurity and AI, and I plan to deepen my knowledge in ethical hacking and machine learning to create secure and intelligent applications.
+## Skills & Technologies 👨🏻‍💻
 
-In the long term, I want to contribute to open-source projects, collaborate with innovative teams, and eventually lead development projects. My ultimate goal is to use technology to solve real-world problems, enhance user experiences, and make a meaningful impact in the tech industry.
-
-### 📫 Contact
-Feel free to reach out at: **javierdelmoral04@gmail.com**
-
-## Languages and Tools 👨🏻‍💻
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,java,spring,mysql,maven,git,github,vscode,idea,bash&perline=12" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,tensorflow,pytorch,mysql,bash,linux,git,vscode,idea,pycharm,anaconda,postman&perline=12"  alt="Skills & Technologies" />
 </p>
-
-## Some Projects 🚀
-
-<table align="center">
-<tr border="none">
-  <td width="50%" align="center">
-    <p align="center">
-      <a href="https://github.com/javier04s/Student-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=InventorySystem-Front&theme=react&hide_border=true&icon_color=e78219"/>
-      </a>
-    </p>
-  </td>
-  <td width="50%" align="center">
-    <p align="center">
-      <a href="https://github.com/javier04s/Book-Store">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=BookStore&theme=react&hide_border=true&icon_color=e78219"/>
-      </a>
-    </p>
-  </td>
-</tr>
-<tr border="none">
-  <td width="50%" align="center">
-    <p align="center">
-      <a href="https://github.com/javier04s/Tasks-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=TaskSystem&theme=react&hide_border=true&icon_color=e78219"/>
-      </a>
-    </p>
-  </td>
-  <td width="50%" align="center">
-    <p align="center">
-      <a href="https://github.com/javier04s/Bank-Management">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javier04s&repo=BankManagement&theme=react&hide_border=true&icon_color=e78219"/>
-      </a>
-    </p>
-  </td>
-</tr>
-</table>
 
 ## GitHub Stats 🔨
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=javier04s&show_icons=true&theme=react" />
-</td>
-<td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=javier04s&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=compact" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javier04s&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=javier04s&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=compact" alt="Top Languages" width="420" />
+</p>
 
+## 📫 Contact
+Feel free to reach out at: **javierdelmoral04@gmail.com**
